@@ -224,9 +224,7 @@ This project successfully demonstrated how data-driven analysis can lead to acti
 
 - **Machine Learning Models:** Develop predictive models to forecast low occupancy flights and proactively address them.
 - **Real-Time Data Analysis:** Integrate real-time data streams for continuous monitoring and decision-making.
-- **Automated Reporting:** Set up automated reporting tools to generate insights regularly
-
-and distribute them to stakeholders.
+- **Automated Reporting:** Set up automated reporting tools to generate insights regularly and distribute them to stakeholders.
 
 ---
 
